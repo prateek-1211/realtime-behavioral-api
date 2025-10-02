@@ -119,7 +119,10 @@ json
     "tailwindcss": "^3.3.0"
   }
 }
-Run frontend:
+Run frontend: npm start
+
+<img width="1920" height="1080" alt="Screenshot (144)" src="https://github.com/user-attachments/assets/cd85e80e-f6cf-4fd7-9969-bc9dd4a7d59a" />
+
 
 bash
 npm start
