@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pydantic
+confluent-kafka
+redis
+psycopg2-binary
+sqlalchemy
+elasticsearch
+httpx
+tensorflow-serving-api
+python-dotenv
