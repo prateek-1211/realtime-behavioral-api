@@ -1,0 +1,30 @@
+.config-panel {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  background-color: #fff;
+}
+
+.config-panel h2 {
+  font-size: 1.5rem;
+  margin-bottom: 15px;
+}
+
+.section {
+  margin-bottom: 15px;
+}
+
+.section h4 {
+  font-size: 1.2rem;
+  margin-bottom: 10px;
+}
+
+.section label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+input[type="range"] {
+  width: 100%;
+}
